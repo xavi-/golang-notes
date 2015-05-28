@@ -344,7 +344,7 @@ Using it:
 
 A ***golang-Interface*** is ***a class with no fields and ONLY VIRTUAL methods***.
 
-The definition of *interface* in Golang is designed tom complement the *structs*. This is a very important "symbiotic" relationship in golang. *Interfaces* fits perfectly with *structs*. 
+The definition of *interface* in Golang is designed to complement the *structs*. This is a very important "symbiotic" relationship in golang. *Interfaces* fits perfectly with *structs*. 
 
 You have in Golang:
 >***Structs:  *** classes, with fields, ALL NON-VIRTUAL methods
